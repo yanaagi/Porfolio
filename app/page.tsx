@@ -43,22 +43,6 @@ const projects = [
     featured: false,
   },
   {
-    name: "Prospect Capital",
-    type: "WORDPRESS · SEO",
-    description:
-      "Created a standalone privacy page for a browser extension and handled page-level search visibility requirements.",
-    url: "https://prospectcap.com/",
-    featured: false,
-  },
-  {
-    name: "Development Homes",
-    type: "ACCESSIBILITY · WEBSITE",
-    description:
-      "Accessibility review and remediation work, including audit findings, page structure, and accessibility statement updates.",
-    url: "https://www.developmenthomes.org/",
-    featured: false,
-  },
-  {
     name: "The Barrie Company",
     type: "WORDPRESS · PROJECT ARCHIVE",
     description:
